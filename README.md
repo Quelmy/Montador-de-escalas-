@@ -82,7 +82,3 @@ Este script foi desenvolvido utilizando o Python 3.x e usa as bibliotecas padrã
 
 - Adicionar suporte para exportar a escala de coroinhas para um arquivo CSV ou PDF.
 - Adicionar uma interface gráfica (GUI) para facilitar o uso do sistema.
-
----
-
-Esse README fornece uma visão geral de como utilizar o sistema, suas funcionalidades e como o código pode ser adaptado ou expandido no futuro.
